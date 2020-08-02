@@ -6,4 +6,5 @@ Submitted without a build folder. Problems with release mode (instant closure of
 
 UML Diagram: "RED-Engine.dia"
 
-Doxygen: "index.html"
+"Red\contrib" requires:
+> glm, stb_image, "msvc-windows-x86" which includes: glew, ogg, openal, sdl2, sdl2_image and vorbis
